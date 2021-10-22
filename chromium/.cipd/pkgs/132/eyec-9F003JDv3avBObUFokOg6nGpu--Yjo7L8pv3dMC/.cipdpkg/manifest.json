@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_apache_maven_maven_plugin_registry",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "maven-plugin-registry-2.2.1.jar",
+      "size": 29710,
+      "hash": "StBnMVXX4OXPbRNomALY1Qfzjl6gCm0vuSrvIGEIIT0C"
+    }
+  ]
+}

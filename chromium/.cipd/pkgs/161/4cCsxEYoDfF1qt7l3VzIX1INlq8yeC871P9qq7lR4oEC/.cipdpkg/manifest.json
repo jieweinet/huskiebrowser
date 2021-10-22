@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_ow2_asm_asm_tree",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "asm-tree-7.0.jar",
+      "size": 50399,
+      "hash": "z9egh0-d42qZnBJ_7q37_m4E1Kce6VTXrz2FPwvkimwC"
+    }
+  ]
+}

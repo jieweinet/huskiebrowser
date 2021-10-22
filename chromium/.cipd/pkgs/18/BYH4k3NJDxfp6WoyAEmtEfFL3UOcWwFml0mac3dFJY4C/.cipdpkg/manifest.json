@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_android_support_cardview_v7",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "cardview-v7-28.0.0.aar",
+      "size": 22329,
+      "hash": "vJ5rDgbOEgXx2zTw5hkwGWE9Gc_rVM3M6nIjQNHGDyYC"
+    }
+  ]
+}

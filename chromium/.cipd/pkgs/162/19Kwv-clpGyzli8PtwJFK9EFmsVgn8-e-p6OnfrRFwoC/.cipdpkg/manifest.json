@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_ow2_asm_asm_util",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "asm-util-7.0.jar",
+      "size": 80802,
+      "hash": "dfu8pEDvRj9BwrCrGoCr5n6RCsSG2mCnhjy8tbrn4UUC"
+    }
+  ]
+}

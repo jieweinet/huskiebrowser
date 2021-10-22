@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_robolectric_sandbox",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "sandbox-4.3.1.jar",
+      "size": 107936,
+      "hash": "QF9zQA1xfgg7Ja-S-nhmp2dl3U6Xz3_QRgI9TwU3Wp8C"
+    }
+  ]
+}

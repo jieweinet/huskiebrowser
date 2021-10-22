@@ -1,0 +1,17 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/proguard",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "lib/proguard603.jar",
+      "size": 1099393,
+      "hash": "_Ljn8jWVEVK3c0RXkbtcIlPnIkNiZbj75tH4N5-9O4sC"
+    },
+    {
+      "name": "lib/retrace603.jar",
+      "size": 11308,
+      "hash": "VSc5InTEYyHuIZoku1_0W47fkUxGwbNb8Y87ww-QFDcC"
+    }
+  ]
+}

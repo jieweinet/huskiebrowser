@@ -1,0 +1,11 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/bouncycastle",
+  "files": [
+    {
+      "name": "lib/bcprov-jdk16.jar",
+      "size": 1876535,
+      "hash": "EO90AzktTNoisgCnqaYg3CWLWqalbSSi_qRo4yTasskC"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/result_adapter/linux-amd64",
+  "version_file": ".versions/result_adapter.cipd_version",
+  "files": [
+    {
+      "name": "result_adapter",
+      "size": 15160899,
+      "executable": true,
+      "hash": "8pYEyixTUUu4Ni1oXA-7ZcQXHYOkdFBh4t4eTCA-xq8C"
+    },
+    {
+      "name": ".versions/result_adapter.cipd_version",
+      "size": 127,
+      "hash": "8TQVGxs_NDl0aE1hd4E23L9iEpUPBdn1SeZvXrlyJ2gC"
+    }
+  ]
+}

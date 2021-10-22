@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_codehaus_plexus_plexus_utils",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "plexus-utils-1.5.15.jar",
+      "size": 228110,
+      "hash": "LKEhgx5Ze02PLLItF8XAQfwjp3d862v73U37NLvn2ZcC"
+    }
+  ]
+}

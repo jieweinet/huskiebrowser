@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_robolectric_utils",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "utils-4.3.1.jar",
+      "size": 65628,
+      "hash": "b55AbNZnAZpUUORzxOLTcr_5yatu9Vqvy8mEMQnLFRkC"
+    }
+  ]
+}

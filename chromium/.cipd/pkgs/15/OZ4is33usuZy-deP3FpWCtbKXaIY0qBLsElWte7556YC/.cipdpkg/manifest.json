@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_build_tools/bundletool",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "bundletool.jar",
+      "size": 26836535,
+      "hash": "CObKKrPvi7ywiMnKWKhxrf662rkN3zGQ46kwFy_7P0MC"
+    }
+  ]
+}

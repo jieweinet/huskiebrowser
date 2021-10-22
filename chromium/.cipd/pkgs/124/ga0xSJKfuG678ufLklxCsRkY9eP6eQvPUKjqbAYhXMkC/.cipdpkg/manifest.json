@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/net_sf_kxml_kxml2",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "kxml2-2.3.0.jar",
+      "size": 43858,
+      "hash": "8mTdn3mh_eEM5ezFMiHv8kvkyTMcgwt9UvLwintjPeIC"
+    }
+  ]
+}

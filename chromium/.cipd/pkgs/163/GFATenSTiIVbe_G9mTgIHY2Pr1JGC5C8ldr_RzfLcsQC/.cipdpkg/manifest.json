@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_pcollections_pcollections",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "pcollections-2.1.2.jar",
+      "size": 39146,
+      "hash": "Kcj_zFxql_BZlBFIWTrQD-LN94rx2I1GvPDRu3A2BsIC"
+    }
+  ]
+}

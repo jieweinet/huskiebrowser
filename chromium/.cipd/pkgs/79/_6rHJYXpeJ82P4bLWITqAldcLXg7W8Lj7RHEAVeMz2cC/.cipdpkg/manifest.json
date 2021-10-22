@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_google_auto_auto_common",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "auto-common-1.1.2.jar",
+      "size": 110892,
+      "hash": "v-heUXJQ_CCK_SsDGiuoDyZSnJJTZISEG0pgZhyh4_UC"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_jetbrains_annotations",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "annotations-13.0.jar",
+      "size": 17536,
+      "hash": "rOKhDcji1f00kl7KwD5JiLLA-FFlDJS4zvSbob0RFHgC"
+    }
+  ]
+}

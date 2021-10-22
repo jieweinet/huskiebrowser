@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_ow2_asm_asm_analysis",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "asm-analysis-7.0.jar",
+      "size": 33317,
+      "hash": "6YH49lDE2QC7AzZQsY4SL6axYerdX4iXjQh1H3LuhHQC"
+    }
+  ]
+}

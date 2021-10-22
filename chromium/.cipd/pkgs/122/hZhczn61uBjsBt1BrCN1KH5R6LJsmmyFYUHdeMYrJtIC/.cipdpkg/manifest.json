@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/nekohtml_xercesminimal",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "xercesMinimal-1.9.6.2.jar",
+      "size": 39798,
+      "hash": "lbizV9GfY3l919Z2Iv0_GDdNZKy8ZYT6uhx3WaMehDgC"
+    }
+  ]
+}

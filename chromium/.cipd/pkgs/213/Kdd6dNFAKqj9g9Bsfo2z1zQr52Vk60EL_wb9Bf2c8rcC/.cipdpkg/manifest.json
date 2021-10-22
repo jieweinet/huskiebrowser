@@ -1,0 +1,52 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/robolectric",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "lib/android-all-10-robolectric-5803371.jar",
+      "size": 131412304,
+      "hash": "oK1wHu3Ue9rvusHCzIDdQAwK3qPMzYo60ob3naHKKUwC"
+    },
+    {
+      "name": "lib/android-all-11-robolectric-6757853.jar",
+      "size": 142025962,
+      "hash": "YvV3ykn2Lw2l1qKoOdgO83cFS5zNFIEQNVk781EpWzEC"
+    },
+    {
+      "name": "lib/android-all-4.4_r1-robolectric-r2.jar",
+      "size": 51358033,
+      "hash": "XGirChHW9G4wNQXnXaYiFfRbakb_eHdEGjHVJ4mTWfkC"
+    },
+    {
+      "name": "lib/android-all-5.0.2_r3-robolectric-r0.jar",
+      "size": 56776784,
+      "hash": "XmPUx_LGka_tZIvwZ14LCnbRnw4j2TcF9Pr57TsnNN4C"
+    },
+    {
+      "name": "lib/android-all-6.0.1_r3-robolectric-r1.jar",
+      "size": 71561048,
+      "hash": "othCccXwM7HQgnQaAvN6LQQxIMDAnlhU6X7OnDuxHTEC"
+    },
+    {
+      "name": "lib/android-all-7.1.0_r7-robolectric-r1.jar",
+      "size": 80575714,
+      "hash": "brSoBJ_zQ8rOiUaUQSFe4Uoe6QKVBZcp7OUYIcB4JI0C"
+    },
+    {
+      "name": "lib/android-all-8.0.0_r4-robolectric-r1.jar",
+      "size": 100871989,
+      "hash": "NwfcEAOB47vMV7hSVf0xOuIIdfxlzzEwxH6G8EStd_AC"
+    },
+    {
+      "name": "lib/android-all-8.1.0-robolectric-4611349.jar",
+      "size": 97522271,
+      "hash": "AbM2S8C0ygmZKapNgYUpx-wF4YueTB5mf5mVWxauGbQC"
+    },
+    {
+      "name": "lib/android-all-9-robolectric-4913185-2.jar",
+      "size": 120933029,
+      "hash": "z0rtXkWN60jdwMqS_CUVbm9HjZ1cHZSM3RgXpn7hGzIC"
+    }
+  ]
+}

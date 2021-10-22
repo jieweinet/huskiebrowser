@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_robolectric_junit",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "junit-4.3.1.jar",
+      "size": 11760,
+      "hash": "YMhep_1lK8TldWfL08QcXTLyxnjiErcTzvpsY1cEUc4C"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/backport_util_concurrent_backport_util_concurrent",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "backport-util-concurrent-3.1.jar",
+      "size": 331716,
+      "hash": "9XWbf838g6UloDbe7cvTLltTa2JevCgkJvFsoTfrWQIC"
+    }
+  ]
+}

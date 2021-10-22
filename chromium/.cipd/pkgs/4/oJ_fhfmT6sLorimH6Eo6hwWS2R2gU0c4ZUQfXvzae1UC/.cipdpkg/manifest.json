@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_build_tools/aapt2",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "aapt2",
+      "size": 6073936,
+      "executable": true,
+      "hash": "kFgIgpT1kTSxRaogN3DCEufSNeRh3JYOKoNVTUrYGrAC"
+    }
+  ]
+}

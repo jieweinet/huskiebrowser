@@ -1,0 +1,11 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/google-truth",
+  "files": [
+    {
+      "name": "lib/truth-0.45.jar",
+      "size": 257064,
+      "hash": "D33O0qFuVad-RPw_-cW-mNS_S7MKvBjXj_1zXflQpp8C"
+    }
+  ]
+}

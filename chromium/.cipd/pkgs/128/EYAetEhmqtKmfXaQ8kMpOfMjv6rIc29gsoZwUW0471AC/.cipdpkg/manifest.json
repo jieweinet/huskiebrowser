@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_apache_maven_maven_artifact_manager",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "maven-artifact-manager-2.2.1.jar",
+      "size": 67574,
+      "hash": "0eJHxO05Ujhf1wSsnbKiIiR8_n0gUItPPHa5D4V5Uu0C"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/android_webview/tools/cts_archive",
+  "files": [
+    {
+      "name": "arm64/L/android-cts-arm64-5.1_r28.zip",
+      "size": 1375788,
+      "hash": "e7yhgo8m1HVTqh8ORXD0FEIlyPi_RSfFyHriY1D-2IcC"
+    },
+    {
+      "name": "arm64/M/android-cts-arm64-6.0_r32.zip",
+      "size": 1460909,
+      "hash": "Gixe71pauzmaZ0OAv3vlx4dcIv98yJtUQY1-dOjK3YEC"
+    },
+    {
+      "name": "arm64/N/android-cts-arm64-7.0_r33.zip",
+      "size": 3669565,
+      "hash": "BrByyQtXvJ7AelLYZbs3HhVw7De7jdg297Zlg_mjfkEC"
+    },
+    {
+      "name": "arm64/O/android-cts-arm64-8.0_r24.zip",
+      "size": 3399054,
+      "hash": "5R9_B5hGZ0kpykKa_siPUyp1z2MCUwxY6AtdBU0PiA4C"
+    },
+    {
+      "name": "arm64/P/android-cts-arm64-9.0_r13.zip",
+      "size": 3596509,
+      "hash": "8Xs-Scbnbk8FT1CxOCZetNdDdhX9tWNBKyPZB19DnIUC"
+    },
+    {
+      "name": "arm64/Q/android-cts-arm64-10_r5.zip",
+      "size": 3784960,
+      "hash": "wRQpgBchTTc2dlApi1nEN4R8DkkXJ-VuCGpigxKWHAMC"
+    },
+    {
+      "name": "x86/L/android-cts-x86-5.1_r28.zip",
+      "size": 1375788,
+      "hash": "-HMi3VXIDtq9s7X0W6F0z2dB0yUC5oZjoVXf8MBLcfsC"
+    },
+    {
+      "name": "x86/M/android-cts-x86-6.0_r32.zip",
+      "size": 1460909,
+      "hash": "PY37FpPUDgBhAusjtaKArdQW1PgHJNcGs8uHrMBRXhgC"
+    },
+    {
+      "name": "x86/N/android-cts-x86-7.0_r33.zip",
+      "size": 3669565,
+      "hash": "imaF7hoYNxYDSeZtAm3CbmS0tDuMp5wr_OFDOR7f8xQC"
+    },
+    {
+      "name": "x86/O/android-cts-x86-8.0_r24.zip",
+      "size": 3399035,
+      "hash": "HrVriZAMjre2CVfJ68aw-L95u4CUoBhlmQG7IyER9GEC"
+    },
+    {
+      "name": "x86/P/android-cts-x86-9.0_r13.zip",
+      "size": 3596509,
+      "hash": "HhD4xmnkKSHX4jfsHyflX2beD3pBeVM73B_iEUYiV7EC"
+    },
+    {
+      "name": "x86/Q/android-cts-x86-10_r5.zip",
+      "size": 3784960,
+      "hash": "wRQpgBchTTc2dlApi1nEN4R8DkkXJ-VuCGpigxKWHAMC"
+    }
+  ]
+}

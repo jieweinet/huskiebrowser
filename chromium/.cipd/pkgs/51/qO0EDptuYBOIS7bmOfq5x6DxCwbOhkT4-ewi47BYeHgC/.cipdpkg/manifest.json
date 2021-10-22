@@ -1,0 +1,11 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_android_tools_sdk_common",
+  "files": [
+    {
+      "name": "sdk-common-30.0.0-alpha10.jar",
+      "size": 1553965,
+      "hash": "L2XK7MXuAQcobQBq3z70WP1INQEC1hfjWA4V8CBIyGkC"
+    }
+  ]
+}

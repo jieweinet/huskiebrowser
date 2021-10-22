@@ -1,0 +1,270 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_build_tools/art",
+  "files": [
+    {
+      "name": "dexlayout",
+      "size": 929224,
+      "executable": true,
+      "hash": "ag1bURMmyALm0ZesXTA0QNG6SDiwvT-Vmb-e-Ej-PF8C"
+    },
+    {
+      "name": "lib/libart-compiler.so",
+      "size": 106902120,
+      "executable": true,
+      "hash": "Feel0L7k1rX-Tmt-NYd9D76MRSRPeEeUXC6PGea5csYC"
+    },
+    {
+      "name": "lib/libart-dexlayout.so",
+      "size": 10011728,
+      "executable": true,
+      "hash": "0_hBp4WHDOH7ed8xuzLt4hwUh8N0ypsTXmfjNJRWsQ4C"
+    },
+    {
+      "name": "lib/libart-disassembler.so",
+      "size": 900728,
+      "executable": true,
+      "hash": "49BwCPfBdbflMIEPh-_UYhjr1TBpO2t7493nX5Le6GcC"
+    },
+    {
+      "name": "lib/libart-gtest.so",
+      "size": 8799904,
+      "executable": true,
+      "hash": "2RfQ49cmTc92hkunZ6Z3vfweBTRJovoD_yEa3ECrO40C"
+    },
+    {
+      "name": "lib/libart.so",
+      "size": 187567928,
+      "executable": true,
+      "hash": "on7jOFTUhh1yNoq0fZWyeaC6F-z1RFzS3FncQx6QM2kC"
+    },
+    {
+      "name": "lib/libartbase.so",
+      "size": 1728968,
+      "executable": true,
+      "hash": "T6HIlz8i-5XcJld-dyxsi0KclTifnmM5UZQWHJtULagC"
+    },
+    {
+      "name": "lib/libartd-compiler.so",
+      "size": 113341400,
+      "executable": true,
+      "hash": "fokv_reKf4LmKywDFCZnfzGMEFf0fEQwgtmcyqxorqAC"
+    },
+    {
+      "name": "lib/libartd-dexlayout.so",
+      "size": 10454144,
+      "executable": true,
+      "hash": "ChWkd-9_l3kGLw1zNn-6fpHNiGULUrjQFy6FPZaNpjAC"
+    },
+    {
+      "name": "lib/libartd-disassembler.so",
+      "size": 904632,
+      "executable": true,
+      "hash": "wqXAIdohJaHUY_SBFfXY3VleXE1xrs810ug_2WLqSdoC"
+    },
+    {
+      "name": "lib/libartd-simulator-container.so",
+      "size": 66152,
+      "executable": true,
+      "hash": "lUeilAg96EdwCMg-5QVOwlBZ5VACxgTieN71xPB4rGMC"
+    },
+    {
+      "name": "lib/libartd-simulator.so",
+      "size": 165496,
+      "executable": true,
+      "hash": "cNg16XKjn0V8LibWZinUe57jX8LFR5XVkCzDCA7J6m4C"
+    },
+    {
+      "name": "lib/libbacktrace.so",
+      "size": 1401096,
+      "executable": true,
+      "hash": "ulmxkctAXa7itKPu1xLsbgQq2UsuJyZgV3vpjMf8plAC"
+    },
+    {
+      "name": "lib/libbase.so",
+      "size": 920960,
+      "executable": true,
+      "hash": "2MtQUxew8ll1BGFzmNDG1jNnpaIfv-ZRfRPMGmYYSaYC"
+    },
+    {
+      "name": "lib/libc++.so",
+      "size": 6229336,
+      "executable": true,
+      "hash": "yITvoizsmNhBlXARKA1wf9T6KnUASPAOAqX9fTUKnBMC"
+    },
+    {
+      "name": "lib/libcrypto-host.so",
+      "size": 5648864,
+      "executable": true,
+      "hash": "Qk6TIp3wuggPJZDsca65dvYkSxEBJ8QhY0eUHWQGS_oC"
+    },
+    {
+      "name": "lib/libcutils.so",
+      "size": 177624,
+      "executable": true,
+      "hash": "fbwMov-MFB5hewqJrPfwq-TrlPSbhmpgqYxLcYcNUcUC"
+    },
+    {
+      "name": "lib/libdexfile.so",
+      "size": 2511464,
+      "executable": true,
+      "hash": "sFKq4Zmjrf4zboBC8VcnASV-Y45d-m1nmcRhpIwdHiQC"
+    },
+    {
+      "name": "lib/libexpat-host.so",
+      "size": 495968,
+      "executable": true,
+      "hash": "Rx3x9tUMcO-wYnhSYHXAPsxCK6P353HKe8pwJm6SNHoC"
+    },
+    {
+      "name": "lib/libicui18n-host.so",
+      "size": 14620496,
+      "executable": true,
+      "hash": "TcQ3oe2qaQzMhb7JzxKBhue7VmU1FnWlqjPpmprifc4C"
+    },
+    {
+      "name": "lib/libicuuc-host.so",
+      "size": 8275352,
+      "executable": true,
+      "hash": "5STvGsAILAVhaxdHEOVqEsqjD_Ij6sihdMN_0HZNZSUC"
+    },
+    {
+      "name": "lib/libjavacore.so",
+      "size": 2463600,
+      "executable": true,
+      "hash": "FEW4C9DU0-rqKkoaZGMHuh7ajoJ7L1Led2PG0yQi0e0C"
+    },
+    {
+      "name": "lib/libjavacrypto.so",
+      "size": 1364096,
+      "executable": true,
+      "hash": "jJlxD1COk8vSUWBJ8l7NEI3i353fMPcK3OY88QoJPy4C"
+    },
+    {
+      "name": "lib/liblog.so",
+      "size": 770568,
+      "executable": true,
+      "hash": "_7G0VFGs5Ru5-aDXNh8_VxuyV-iSfoUlY8ODVdyTYEQC"
+    },
+    {
+      "name": "lib/liblz4.so",
+      "size": 529392,
+      "executable": true,
+      "hash": "p4ZCdp4lG-gSxmrsD3OKUqoa-q6GHQR2ChvqVrYVQVUC"
+    },
+    {
+      "name": "lib/liblzma.so",
+      "size": 660112,
+      "executable": true,
+      "hash": "aHDhamB_jt2ywBNDuM2MiBrkHKCSjvtxXflBjGR16T4C"
+    },
+    {
+      "name": "lib/libnativebridge.so",
+      "size": 90184,
+      "executable": true,
+      "hash": "00LgX0EW17NSamM1KlBvVNyl07DsyfvDqj8GTrIgEbIC"
+    },
+    {
+      "name": "lib/libnativehelper.so",
+      "size": 246008,
+      "executable": true,
+      "hash": "vYQGqJ9b3BRxCkhusm_7q9fsB_3pyG-Jh-Cf8VOQTHUC"
+    },
+    {
+      "name": "lib/libnativeloader.so",
+      "size": 114384,
+      "executable": true,
+      "hash": "XDqyKsI5PtDgv3fv_MfPc5OMt4h5jnaFp2gat_LWyYgC"
+    },
+    {
+      "name": "lib/libopenjdk.so",
+      "size": 1483760,
+      "executable": true,
+      "hash": "ah9PNNqUYgtpkOiltdyfovn5_i_KNANnpPTNOn95v3gC"
+    },
+    {
+      "name": "lib/libopenjdkjvm.so",
+      "size": 1737984,
+      "executable": true,
+      "hash": "VY-pe8mY3hV06R5rdxQXnn5kmIZQ-3hXRVlNaUXe5NwC"
+    },
+    {
+      "name": "lib/libopenjdkjvmti.so",
+      "size": 27164888,
+      "executable": true,
+      "hash": "49BqMEleFPBDGi5lZ_2yvitKnxCue5tsczocaFL1rB8C"
+    },
+    {
+      "name": "lib/libprofile.so",
+      "size": 2476544,
+      "executable": true,
+      "hash": "cYPDdQiR4ETaTswBfQqFn-nb6RbgdmIsBy6v306dcRgC"
+    },
+    {
+      "name": "lib/libsigchain.so",
+      "size": 19792,
+      "executable": true,
+      "hash": "l0H8630juEF_3vTmW8HhaCwfxrov0Q57BFm4vGjn9_AC"
+    },
+    {
+      "name": "lib/libssl-host.so",
+      "size": 3202504,
+      "executable": true,
+      "hash": "sAIc8mfQEa30jcwmB6HY2TpKPiHoFhuxe5vCEOcR56AC"
+    },
+    {
+      "name": "lib/libunwindstack.so",
+      "size": 7190704,
+      "executable": true,
+      "hash": "wbD2FBxCQ4yOh0dgUnf3eCSZLLpRB4D2yjXaMlyYkxAC"
+    },
+    {
+      "name": "lib/libvixl-arm.so",
+      "size": 8741528,
+      "executable": true,
+      "hash": "cGaBRIFxhxxs6bIeetzNlDAU9a3gJo4rM5S_OxgE_ksC"
+    },
+    {
+      "name": "lib/libvixl-arm64.so",
+      "size": 5963784,
+      "executable": true,
+      "hash": "pLVlCTSFCxQ63Nbguh9WNm3_EUZlw1k3OwWoJ_2o8OQC"
+    },
+    {
+      "name": "lib/libvixld-arm.so",
+      "size": 8753496,
+      "executable": true,
+      "hash": "Xexv5xDx1vbGhU1fDMRYJIEGqM1EMNQNyhWgjEcba9YC"
+    },
+    {
+      "name": "lib/libvixld-arm64.so",
+      "size": 5818608,
+      "executable": true,
+      "hash": "-GlAc0cqxlfP4voOAVBXzGXoVtCySjYpBxguMCFsMhwC"
+    },
+    {
+      "name": "lib/libz-host.so",
+      "size": 289080,
+      "executable": true,
+      "hash": "UDNXlA7qdAGpzUfjr3so7flyPxqzXNILGUc5oh-6PWgC"
+    },
+    {
+      "name": "lib/libziparchive.so",
+      "size": 425424,
+      "executable": true,
+      "hash": "qwWNDVslmcjJa_xKx7_UOMzd4d-VEPz8ckLlfwImww4C"
+    },
+    {
+      "name": "lib/slicer.so",
+      "size": 9853456,
+      "executable": true,
+      "hash": "_aU73kotCsBsESN0lBE42fUNtMju1GV0zBexxhKdbLcC"
+    },
+    {
+      "name": "profman",
+      "size": 2692528,
+      "executable": true,
+      "hash": "BY712nVZ4rMl3gsGYdL4i7hjOK8JkJ2PwSK2eHYqX0EC"
+    }
+  ]
+}

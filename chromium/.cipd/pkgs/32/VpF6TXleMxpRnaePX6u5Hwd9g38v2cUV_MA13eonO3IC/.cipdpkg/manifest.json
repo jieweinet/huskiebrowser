@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_android_support_recyclerview_v7",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "recyclerview-v7-28.0.0.aar",
+      "size": 354467,
+      "hash": "6ylkFMH21Me1Ivaf5QWI6oUpeFXbDngGwk6091QJWH0C"
+    }
+  ]
+}

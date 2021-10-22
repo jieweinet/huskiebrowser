@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_apache_ant_ant_launcher",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "ant-launcher-1.8.0.jar",
+      "size": 12277,
+      "hash": "2p_ZLqzfY9rwvlLrcazMEP95Q6hdeqyeqWz34D7j08wC"
+    }
+  ]
+}

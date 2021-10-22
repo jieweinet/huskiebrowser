@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_jetbrains_kotlin_kotlin_stdlib",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "kotlin-stdlib-1.5.31.jar",
+      "size": 1505952,
+      "hash": "SADOrLLsC7mVmghxVLjjUxjq0epOujLUuxuXNCIqfmgC"
+    }
+  ]
+}

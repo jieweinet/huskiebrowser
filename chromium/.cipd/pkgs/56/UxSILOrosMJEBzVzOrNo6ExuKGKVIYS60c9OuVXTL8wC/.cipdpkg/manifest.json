@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_google_android_gms_play_services_auth_base",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "play-services-auth-base-17.0.0.aar",
+      "size": 114350,
+      "hash": "xJTSPVzcfkwzchh3WSho09wWCFyrU1w_WJwDBSUk9zcC"
+    }
+  ]
+}

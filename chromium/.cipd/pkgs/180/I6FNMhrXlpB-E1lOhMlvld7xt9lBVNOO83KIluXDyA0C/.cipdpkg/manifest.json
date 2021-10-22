@@ -1,0 +1,22 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_sdk/public/patcher",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "patcher/v4/package.xml",
+      "size": 17740,
+      "hash": "Q51OSG-bofxVQB5SBX7RiI71VU-rxkW4BU5KnuUdb74C"
+    },
+    {
+      "name": "patcher/v4/patcher.jar",
+      "size": 1962182,
+      "hash": "eGvXxTPK6h1Tl10jJCp3tfrhsqme6t6rmnX_PlI9PskC"
+    },
+    {
+      "name": "patcher/v4/source.properties",
+      "size": 668,
+      "hash": "F3YEHF5nxdqaTRHW4pq2ZEa8NNaNQBm4IDOcziuHRCcC"
+    }
+  ]
+}

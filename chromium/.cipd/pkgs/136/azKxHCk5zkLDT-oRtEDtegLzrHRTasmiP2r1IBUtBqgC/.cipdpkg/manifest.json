@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_apache_maven_maven_settings",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "maven-settings-2.2.1.jar",
+      "size": 49042,
+      "hash": "mp9VZxOkBOdwydva7X6whgeAFMmJKRlgx2_d5ttBkvcC"
+    }
+  ]
+}

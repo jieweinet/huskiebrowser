@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_android_support_support_v4",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "support-v4-28.0.0.aar",
+      "size": 2951,
+      "hash": "i5AxOBxnjWKMnke1Zq4dFh4clxD3hVx1m-6sdZbOzzAC"
+    }
+  ]
+}

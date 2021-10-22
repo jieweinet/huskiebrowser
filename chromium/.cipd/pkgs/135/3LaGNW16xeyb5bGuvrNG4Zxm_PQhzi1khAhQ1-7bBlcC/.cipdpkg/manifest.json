@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_apache_maven_maven_repository_metadata",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "maven-repository-metadata-2.2.1.jar",
+      "size": 25656,
+      "hash": "X-KD9HsOf32VpCUq8_p6DbTY8IDNnfMIYIwEcrjxaKEC"
+    }
+  ]
+}

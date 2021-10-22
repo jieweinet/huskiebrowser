@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_google_errorprone_error_prone_annotation",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "error_prone_annotation-2.9.0.jar",
+      "size": 7742,
+      "hash": "OS8-2AQOWoCfgj5NyUWBnZkct7FYyEhHCGz7ad84mnoC"
+    }
+  ]
+}

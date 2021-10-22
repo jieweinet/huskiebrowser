@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_codehaus_plexus_plexus_container_default",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "plexus-container-default-1.0-alpha-9-stable-1.jar",
+      "size": 194185,
+      "hash": "fHWGEoiHgsz-N2gjrufNzH4M2vsJf371ApWgsMOhbt8C"
+    }
+  ]
+}

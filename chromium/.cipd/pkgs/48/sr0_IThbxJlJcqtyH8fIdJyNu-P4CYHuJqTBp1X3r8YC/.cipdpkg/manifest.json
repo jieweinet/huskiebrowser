@@ -1,0 +1,11 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_android_tools_layoutlib_layoutlib_api",
+  "files": [
+    {
+      "name": "layoutlib-api-30.0.0-alpha10.jar",
+      "size": 114143,
+      "hash": "D4KuM96BRYyp9tMSyDMdkjaklIfF84Uf4tl_Nv5ig_AC"
+    }
+  ]
+}

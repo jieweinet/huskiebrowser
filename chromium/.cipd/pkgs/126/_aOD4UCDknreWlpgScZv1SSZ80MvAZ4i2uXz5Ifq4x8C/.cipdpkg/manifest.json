@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_apache_maven_maven_artifact",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "maven-artifact-2.2.1.jar",
+      "size": 80322,
+      "hash": "1TBi_-hnek9eGtOh0fo37WAPqzkWbTm-ftIEY1xfg5sC"
+    }
+  ]
+}

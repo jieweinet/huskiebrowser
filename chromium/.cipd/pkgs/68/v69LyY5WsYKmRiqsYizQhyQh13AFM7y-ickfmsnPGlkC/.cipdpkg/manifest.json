@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_google_android_gms_play_services_location",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "play-services-location-17.0.0.aar",
+      "size": 128878,
+      "hash": "fbZ3bpErYZeNf9t5GTGP3AET4Z-pxmaMAW_LV88fSMkC"
+    }
+  ]
+}

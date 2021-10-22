@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/jdk/extras",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "java_8/jre/lib/rt.jar",
+      "size": 65420352,
+      "hash": "93LAZ942TTzxEu3kNA0VoCz7Lg-uFIqosY0FEF226DAC"
+    }
+  ]
+}

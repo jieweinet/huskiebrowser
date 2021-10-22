@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_google_guava_listenablefuture",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "listenablefuture-1.0.jar",
+      "size": 3149,
+      "hash": "5K12B-XAR3xviQ7yaknLjRu03_tlC6tFAq_uZGROMGkC"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/jacoco",
+  "files": [
+    {
+      "name": "lib/jacocoagent.jar",
+      "size": 279105,
+      "hash": "4NXv7EWmlypoGvZzwLadlR8Ba5CONoGylLXCvwGH_DAC"
+    },
+    {
+      "name": "lib/jacocoant.jar",
+      "size": 743031,
+      "hash": "o74jO66Z0YNvZkDYwNzaDaAtHr8Bcv2_uNoxD8mqnu4C"
+    },
+    {
+      "name": "lib/jacococli.jar",
+      "size": 542870,
+      "hash": "4u2vxWKOnQPdf2Sr1W66bZVxYRGG2jDW581UELJqpxQC"
+    },
+    {
+      "name": "lib/org.jacoco.agent-0.8.3.201901230119.jar",
+      "size": 254605,
+      "hash": "Ui3rJU7hagTMg0HMjzNfXLcjKYKZTZYbnPOgRUcJIJ8C"
+    },
+    {
+      "name": "lib/org.jacoco.ant-0.8.3.201901230119.jar",
+      "size": 31937,
+      "hash": "c1hE4a4V-bh1tConrFy2HMJuEG2eg55dHGdWcJtCTOAC"
+    },
+    {
+      "name": "lib/org.jacoco.core-0.8.3.201901230119.jar",
+      "size": 192382,
+      "hash": "CBhDe8BgoMfMeYFI8itxNwKq4ncauhBEREB2l9V48eoC"
+    },
+    {
+      "name": "lib/org.jacoco.report-0.8.3.201901230119.jar",
+      "size": 128946,
+      "hash": "quCPpP8EPIB7iHbNsthwXrhEmlXvzkYbqmwJ2iRQiMEC"
+    }
+  ]
+}
